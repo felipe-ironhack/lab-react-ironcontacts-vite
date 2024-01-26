@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+
+table img {
+  max-width: 3.5rem;
+  border-radius: 8px;
+}
+
+table {
+  margin: 0 auto;
+  width: 100%;
+}
